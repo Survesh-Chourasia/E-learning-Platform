@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "JavaScript"
+  },
+  {
+    "id": "2",
+    "name": "Python"
+  },
+  {
+    "id": "3",
+    "name": "C programming"
+  },
+  {
+    "id": "4",
+    "name": "ASP.net"
+  },
+  {
+    "id": "5",
+    "name": "PHP(Laravel)"
+  },
+  {
+    "id": "6",
+    "name": "Android"
+  },
+  {
+    "id": "7",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "8",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "9",
+    "name": "ASP.NEt"
+  }
+]
